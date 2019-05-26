@@ -966,6 +966,10 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 enabler.datalake.mediaset.it
 0.0.0.0 hbbtv.mediaset.net
+0.0.0.0 amazonco.uk # misspelling
+0.0.0.0 www.myishop.co.uk
+0.0.0.0 www2.myishop.co.uk
+0.0.0.0 ads30.adcolony.com
 
 # See Issue #844 – Windows telemetry servers – https://github.com/StevenBlack/hosts/issues/844
 0.0.0.0 alpha.telemetry.microsft.com
@@ -982,13 +986,13 @@
 0.0.0.0 leancoding.co
 0.0.0.0 spottyfly.com
 0.0.0.0 stopify.co
-0.0.0.0 yoütu.be
-0.0.0.0 discörd.com
-0.0.0.0 särahah.eu
-0.0.0.0 minecräft.com
+0.0.0.0 xn--yotu-1ra.be
+0.0.0.0 xn--discrd-zxa.com
+0.0.0.0 xn--srahah-bua.eu
+0.0.0.0 xn--minecrft-5za.com
 0.0.0.0 freegiftcards.co
-0.0.0.0 disçordapp.com
-0.0.0.0 särahah.pl
+0.0.0.0 xn--disordapp-s3a.com
+0.0.0.0 xn--srahah-bua.pl
 0.0.0.0 xda-developers.us
 0.0.0.0 quickmessage.us
 0.0.0.0 fortnight.space
@@ -996,6 +1000,9 @@
 0.0.0.0 youshouldclick.us
 0.0.0.0 joinmy.site
 0.0.0.0 watches-my.stream
+0.0.0.0 www.apple.com-fasting.live
+0.0.0.0 apple.com-fasting.live
+0.0.0.0 com-fasting.live
 
 # IP Logger
 
@@ -1004,5 +1011,7 @@
 0.0.0.0 iplogger.com
 0.0.0.0 iplogger.ru
 0.0.0.0 yip.su
+
+0.0.0.0 parentelement.tk
 
 #=====================================
