@@ -45,6 +45,9 @@ def main():
                 "Unified hosts **+ " + key.replace("-", " + ") + "**"
             )
 
+        if "\\" in data[key]["location"]:
+            data[key]["location"] = data[key]["location"].replace("\\", "/")
+
         toc_rows += s.substitute(data[key]) + "\n"
 
     row_defaults = {
@@ -52,7 +55,6 @@ def main():
         "description": "",
         "homeurl": "",
         "frequency": "",
-        "issues": "",
         "url": "",
         "license": "",
         "issues": "",
@@ -60,7 +62,7 @@ def main():
 
     t = Template(
         "${name} | ${description} |[link](${homeurl})"
-        " | [raw](${url}) | ${frequency} | ${license}  | [issues](${issues}) "
+        " | [raw](${url}) | ${frequency} | ${license} | [issues](${issues})"
     )
 
     for key in keys:
