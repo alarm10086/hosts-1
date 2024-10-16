@@ -2,9 +2,11 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 ad-assets.futurecdn.net
+0.0.0.0 ck.getcookiestxt.com
+0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
-0.0.0.0 n2019cov.000webhostapp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 010sec.com
 0.0.0.0 01mspmd5yalky8.com
@@ -213,7 +215,7 @@
 0.0.0.0 api5.batmobil.net
 0.0.0.0 beauty-tea.com
 0.0.0.0 www.beauty-tea.com
-0.0.0.0 0.0.0.0.beeglivesex.com
+0.0.0.0 beeglivesex.com
 0.0.0.0 cdn.beginads.com
 0.0.0.0 www.cdn.beginads.com
 0.0.0.0 rotator.beginads.com
@@ -824,7 +826,6 @@
 0.0.0.0 a.faymobi.com
 0.0.0.0 fdn-en.net
 0.0.0.0 ads.feedly.com
-0.0.0.0 feylibertad.org
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgoogle.com
 0.0.0.0 www.fgoogle.com
@@ -837,7 +838,6 @@
 0.0.0.0 foodandcot.com
 0.0.0.0 fortnight.space
 0.0.0.0 fortnitechat.site
-0.0.0.0 api.fouanalytics.com
 0.0.0.0 found.ee
 0.0.0.0 free-dating-girls.online
 0.0.0.0 freeadult.games
@@ -864,9 +864,7 @@
 0.0.0.0 www.girlstofap.ga
 0.0.0.0 git-hub.co
 0.0.0.0 githb.co
-0.0.0.0 amerisleep.github.io
-0.0.0.0 superlogout.github.io
-0.0.0.0 www.superlogout.github.io
+
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 www.goodblock.gladly.io
 0.0.0.0 ad-dev.globalnoticias.pt
@@ -1019,7 +1017,6 @@
 0.0.0.0 samsung.apps.linkpc.net
 0.0.0.0 lismcanalys.fun
 0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 livechatinc.org
 0.0.0.0 cradver.livejasmin.com
 0.0.0.0 crt.livejasmin.com
@@ -1992,3 +1989,845 @@
 0.0.0.0 samuel-beckett.site
 0.0.0.0 tahmil-kutib-pdf.info
 0.0.0.0 uberupload.online
+
+# Added December 25, 2021 see https://github.com/StevenBlack/hosts/issues/1840
+0.0.0.0 pokemoney.biz
+0.0.0.0 pokemoney.shop
+
+# added December 30, 2021 see https://github.com/StevenBlack/hosts/issues/1849
+0.0.0.0 1.220.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 1.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 10.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 101.101.170.199.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 101.170.199.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 101.58.46.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 103.98.133.66.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 107.162.155.1.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 108.84.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 110.206.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 110.26.112.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 110.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 112.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 118.236.253.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 12.8.110.206.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 12.85.10.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 121.132.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 121.136.92.16.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 122.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 124.106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 125.61.29.122.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 125.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 126.13.125.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 126.13.134.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 127.173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 13.125.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 13.134.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 13.207.228.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 131.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 132.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 133.66.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 134.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 136.255.190.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 136.92.16.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 139.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 14.254.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 142.186.110.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 155.1.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 155.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 16.36.131.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 16.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 162.155.1.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 168.92.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 170.199.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 172.223.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 173.31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 177.224.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 181.226.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 182.35.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 186.110.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 186.207.233.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 187.172.223.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 187.250.139.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 187.250.45.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 190.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 191.223.146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 193.13.207.228.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 193.58.14.254.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 194.186.207.233.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 195.77.229.31.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 197.222.215.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 198.96.84.56.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 199.203.121.132.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 199.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 2.67.200.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 20.43.177.224.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 200.24.4.146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 200.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 202.127.173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 202.173.31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 202.4.6.58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 203.121.132.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 204.110.26.112.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 204.126.13.125.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 204.126.13.134.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 206.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 207.228.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 207.233.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 208.59.124.106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 209.197.222.215.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 210.99.182.35.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 212.24.225.8.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 213.187.250.139.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 213.187.250.45.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 213.33.108.84.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 213.5.168.92.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 215.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 220.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 222.215.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 223.146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 223.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 224.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 225.8.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 226.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 228.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 229.31.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 233.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 236.253.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 24.225.8.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 24.4.146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 25.93.59.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 250.139.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 250.45.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 253.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 254.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 255.190.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 26.112.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 27.101.58.46.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 29.122.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 31.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 33.108.84.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 33.155.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 35.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 36.131.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 36.37.33.155.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 37.25.93.59.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 37.33.155.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 38.142.186.110.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 4.146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 4.16.36.131.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 4.6.58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 40.118.236.253.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 40.67.181.226.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 43.177.224.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 45.12.85.10.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 45.63.1.220.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 45.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 46.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 5.168.92.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 5.2.67.200.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 5.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 52.136.255.190.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 52.187.172.223.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 52.191.223.146.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 56.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 58.14.254.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 58.46.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 59.124.106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 59.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 6.58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 61.29.122.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 63.1.220.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 66.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 67.181.226.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 67.200.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 77.229.31.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 8.110.206.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 8.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 84.56.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 84.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 85.10.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 92.16.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 92.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 93.59.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 96.84.56.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 98.133.66.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 99.182.35.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 c752sa.k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 c752sa3k9ob2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 c752sa3k9oeb2egpgc8fnhkeyyyyy.domsearch.net
+0.0.0.0 c752sa3k9oeb2ehgpgc8fnhkeyyyyy.domsearch.net
+0.0.0.0 domsearch.net
+0.0.0.0 k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 mail.domsearch.net
+0.0.0.0 net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 test.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
+0.0.0.0 vor.ngo
+0.0.0.0 vor.ong
+0.0.0.0 www.domsearch.net
+
+# Added December 31, 2021
+0.0.0.0 xxsweety.com
+0.0.0.0 manualdrain.com
+
+# Added January 2, 2022
+0.0.0.0 mypornsnap.top
+
+# Added January 11, 2022
+0.0.0.0 asecv.xyz
+
+# Added January 12, 2022
+0.0.0.0 loopybatl.site
+0.0.0.0 technoob.info
+0.0.0.0 thefappeningpics.com
+0.0.0.0 hotzxgirl.com
+
+# Added January 13, 2022
+0.0.0.0 roksa.sx
+
+# Added January 30, 2022
+0.0.0.0 waaw.to
+
+# Added February 5, 2022
+0.0.0.0 zmyslowyklub.com
+0.0.0.0 flndmyiove.com
+
+# Added February 17, 2022
+0.0.0.0 yourbestwoman.life
+
+# Added February 28, 2022
+0.0.0.0 sweetchicks.net
+0.0.0.0 rbgbq.sweetchicks.net
+0.0.0.0 fuckmebook.com
+
+# Added May 20, 2022
+0.0.0.0 tracking.overwolf.com
+0.0.0.0 analyticsnew.overwolf.com
+0.0.0.0 raf.overwolf.com
+
+# Added June 21, 2022
+0.0.0.0 speeddials.opera.com
+0.0.0.0 merchandise.opera-api.com
+
+# added June 25, 2022
+0.0.0.0 analytics.binaryfortress.com
+
+# added July 10, 2022
+0.0.0.0 seductivegirls.cyou
+0.0.0.0 amusingdates.net
+0.0.0.0 honey-date4u.life
+
+# Added August 9, 2022
+0.0.0.0 shopsplumbing.com
+
+# Added August 12, 2022
+0.0.0.0 nl-crypto.com
+0.0.0.0 evri-package-gb.web.app
+
+# Added August 13, 2022
+0.0.0.0 telemetry.acronis.com
+
+# Added August 17, 2022
+0.0.0.0 mlbcash.com
+0.0.0.0 easy-extra-income-ways-makes-you-rich.store
+0.0.0.0 www.easy-extra-income-ways-makes-you-rich.store
+
+# Added August 20, 2022
+0.0.0.0 arizona-golf-vacations.com
+
+# Added August 25, 2022
+0.0.0.0 prd-lender.cdp.internal.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+
+0.0.0.0 didna-d.openx.net
+0.0.0.0 c2shb.ssp.yahoo.com
+
+# Added August 26, 2022
+0.0.0.0 anmooq.deiicatedate.net
+0.0.0.0 www.pornsite123.com
+0.0.0.0 pornsite123.com
+0.0.0.0 www.xxxbullet.com
+0.0.0.0 xxxbullet.com
+0.0.0.0 www.packsdechicas.online
+0.0.0.0 packsdechicas.online
+
+# Added August 27, 2022
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ipmcdn.avast.com
+0.0.0.0 ncc.avast.com
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 clicktut.site
+
+# Added Auguest 30, 2022
+0.0.0.0 secureaddisplay.com
+0.0.0.0 wiztube.xyz
+
+# Added September 2, 2022
+0.0.0.0 yourgodess.com
+0.0.0.0 www.quinni.cyou
+0.0.0.0 quinni.cyou
+0.0.0.0 www.alenai.cyou
+0.0.0.0 alenai.cyou
+
+# Added September 5, 2022
+0.0.0.0 telewizja-online.net
+0.0.0.0 bramka.org
+0.0.0.0 ustreamix.su
+0.0.0.0 inatv.pl
+
+# Added September 7, 2022
+0.0.0.0 tracking.minitool.com
+
+# Added September 9, 2022
+0.0.0.0 pasiekazlotoklos.pl
+
+# Added September 12, 2022
+0.0.0.0 eu-commercialb.com
+
+# Added September 29, 2022
+0.0.0.0 gratlfyingdates.net
+0.0.0.0 www.gratlfyingdates.net
+
+# Added October 15, 2022
+0.0.0.0 filmsexeporno.com
+
+# Added October 24, 2022
+0.0.0.0 supdqwepu.com
+0.0.0.0 vawardquac.com
+0.0.0.0 lemmingro.com
+
+# Added October 27, 2022
+0.0.0.0 flashrewards.co
+
+# Added November 13, 2022
+0.0.0.0 info-eastflirts.com
+0.0.0.0 www.info-eastflirts.com
+
+# Added November 20, 2022
+0.0.0.0 reporting-api.gannettinnovation.com
+
+# Added November 26, 2022
+0.0.0.0 1041598d1a.da1a0e7bb3.com
+0.0.0.0 12112336.pix-cdn.org
+0.0.0.0 1d3c8a1eaa.faeaeeaafa.com
+0.0.0.0 acceptable.a-ads.com
+0.0.0.0 addresseepaper.com
+0.0.0.0 banquetunarmedgrater.com
+0.0.0.0 cdn.barscreative1.com
+0.0.0.0 cdn.cloudimagesb.com
+0.0.0.0 cdn.creative-bars1.com
+0.0.0.0 cdn.tubecorp.com
+0.0.0.0 cdn18383040.ahacdn.me
+0.0.0.0 friendshipmale.com
+0.0.0.0 i.cdnkimg.com
+0.0.0.0 icon.eu.mndsrv.com
+0.0.0.0 iconcnd.net
+0.0.0.0 in16.zog.link
+0.0.0.0 js.canstrm.com
+0.0.0.0 js.natsdk.com
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 na.nawpush.com
+0.0.0.0 native-track.com
+0.0.0.0 parkingridiculous.com
+0.0.0.0 prombid.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 s-img.adskeeper.com
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 s.viiqvmfb.com
+0.0.0.0 soldierreproduceadmiration.com
+0.0.0.0 tcimp.zog.link
+0.0.0.0 tsyndicate.com
+0.0.0.0 unseenreport.com
+0.0.0.0 veilsuccessfully.com
+0.0.0.0 veneeringextremely.com
+0.0.0.0 bestgames-2022.com
+0.0.0.0 fp.metricswpsh.com
+0.0.0.0 spikereekvelocity.com
+0.0.0.0 www.gaming-adult.com
+0.0.0.0 mediasama.com
+0.0.0.0 danbo.org
+
+# Added November 27, 2022
+0.0.0.0 crmt.livejasmin.com
+
+# Added December 4, 2022. Malware domains using TXT record to transfer powershell scripts.
+0.0.0.0 wmail-endpoint.com
+0.0.0.0 wmail-blog.com
+0.0.0.0 wmail-chat.com
+0.0.0.0 wmail-cdn.com
+0.0.0.0 wmail-schnellvpn.com
+0.0.0.0 fairu-endpoint.com
+0.0.0.0 fairu-blog.com
+0.0.0.0 fairu-chat.com
+0.0.0.0 fairu-cdn.com
+0.0.0.0 fairu-schnellvpn.com
+0.0.0.0 bideo-endpoint.com
+0.0.0.0 bideo-blog.com
+0.0.0.0 bideo-chat.com
+0.0.0.0 bideo-cdn.com
+0.0.0.0 bideo-schnellvpn.com
+0.0.0.0 privatproxy-endpoint.com
+0.0.0.0 privatproxy-blog.com
+0.0.0.0 privatproxy-chat.com
+0.0.0.0 privatproxy-cdn.com
+0.0.0.0 privatproxy-schnellvpn.com
+0.0.0.0 ahoravideo-endpoint.com
+0.0.0.0 ahoravideo-blog.com
+0.0.0.0 ahoravideo-chat.com
+0.0.0.0 ahoravideo-cdn.com
+0.0.0.0 ahoravideo-schnellvpn.com
+0.0.0.0 wmail-endpoint.xyz
+0.0.0.0 wmail-blog.xyz
+0.0.0.0 wmail-chat.xyz
+0.0.0.0 wmail-cdn.xyz
+0.0.0.0 wmail-schnellvpn.xyz
+0.0.0.0 fairu-endpoint.xyz
+0.0.0.0 fairu-blog.xyz
+0.0.0.0 fairu-chat.xyz
+0.0.0.0 fairu-cdn.xyz
+0.0.0.0 fairu-schnellvpn.xyz
+0.0.0.0 bideo-endpoint.xyz
+0.0.0.0 bideo-blog.xyz
+0.0.0.0 bideo-chat.xyz
+0.0.0.0 bideo-cdn.xyz
+0.0.0.0 bideo-schnellvpn.xyz
+0.0.0.0 privatproxy-endpoint.xyz
+0.0.0.0 privatproxy-blog.xyz
+0.0.0.0 privatproxy-chat.xyz
+0.0.0.0 privatproxy-cdn.xyz
+0.0.0.0 privatproxy-schnellvpn.xyz
+0.0.0.0 ahoravideo-endpoint.xyz
+0.0.0.0 ahoravideo-blog.xyz
+0.0.0.0 ahoravideo-chat.xyz
+0.0.0.0 ahoravideo-cdn.xyz
+0.0.0.0 ahoravideo-schnellvpn.xyz
+
+# Added December 4, 2022
+0.0.0.0 cesareurope.com
+0.0.0.0 cws-hotstar.conviva.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 logs.hotstar.com
+0.0.0.0 service.hotstar.com
+0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 videoads.hotstar.com
+0.0.0.0 vs.hotstar.com
+
+# Added December 11, 2022
+0.0.0.0 analytics.shein.com
+0.0.0.0 analytics.shein.co.uk
+
+# Added December 29, 2022
+0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
+0.0.0.0 c2shb.pubgw.yahoo.com
+0.0.0.0 cdn.confiant-integrations.net
+0.0.0.0 cdn.hadronid.net
+0.0.0.0 cdn.id5-sync.com
+0.0.0.0 cdn.prod.uidapi.com
+0.0.0.0 curvedhoney.com
+0.0.0.0 dnacdn.net
+0.0.0.0 freestar-d.openx.net
+0.0.0.0 freestar-io.videoplayerhub.com
+0.0.0.0 oa.openxcdn.net
+0.0.0.0 s2s.t13.io
+
+# Added January 11, 2023
+0.0.0.0 btc8886.com
+0.0.0.0 en.xachinaproject.fun
+
+# Added January 12, 2023
+0.0.0.0 antihohol.cloud
+0.0.0.0 hosteagle.club
+0.0.0.0 anz-shield-secure.com
+0.0.0.0 alert-bendigobank.com
+0.0.0.0 linkt-transport.top
+0.0.0.0 linkt-help.top
+
+# Added January 13, 2023
+0.0.0.0 reviewmygov.tuquy.com
+0.0.0.0 auspost-record.com
+0.0.0.0 alert-auspost.com
+0.0.0.0 auspost-input.com
+
+# Added January 22, 2023
+0.0.0.0 vep.hautnah-kosmetik-grafenau.de
+0.0.0.0 ttri.kanzlei-ecklmaier.de
+0.0.0.0 d-stuff.cfd
+0.0.0.0 ruhrboudoir.de
+0.0.0.0 d-bring.cfd
+0.0.0.0 obev.pauya.de
+0.0.0.0 dimoradellapizzuta.it
+0.0.0.0 misanoassicurazioni.it
+0.0.0.0 d-enemy.cfd
+0.0.0.0 sindelfingen-haarentfernung.de
+0.0.0.0 asdpoliziamunicipalepa.it
+0.0.0.0 mf-massoterapia.it
+0.0.0.0 tyty.lolokira.lol
+0.0.0.0 yord.serawent-pole.lol
+0.0.0.0 redivosrl.it
+
+# Added January 23, 2023
+0.0.0.0 products.gobankingrates.com
+0.0.0.0 cdn.rates.consumertrack.com
+0.0.0.0 ads-api.twitter.com
+
+# Added February 7, 2023
+0.0.0.0 aax-dtb-cf.amazon-adsystem.com
+0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 images.twnmm.com
+0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
+0.0.0.0 secure.cdn.fastclick.ne
+0.0.0.0 twngcpbidder.lb.engagecore.com
+0.0.0.0 assets-jpcust.jwpsrv.com
+
+# Added March 7, 2023
+0.0.0.0 a125375509.cdn.optimizely.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn.indexww.com
+
+# Added March 25, 2023
+0.0.0.0 wpad.www.tendawifi.com
+0.0.0.0 crprt.livejasmin.com
+
+# Added March 28, 2023
+0.0.0.0 grow.gab.com
+
+# Added April 3, 2023
+0.0.0.0 transive.top
+0.0.0.0 warehousesale.shop
+
+# Added April 4, 2023
+0.0.0.0 fpjscdn.net
+0.0.0.0 api.fpjs.io
+0.0.0.0 use1.fptls.com
+0.0.0.0 use1.fptls3.com
+
+# Added April 7, 2023
+0.0.0.0 d2uap9jskdzp2.cloudfront.net
+0.0.0.0 steadfastseat.com
+0.0.0.0 eq97f.publishers.tremorhub.com
+
+# Added April 13, 2023
+0.0.0.0 wota-tournament.com
+
+# Added April 19, 2023
+0.0.0.0 rukalebi.ru
+0.0.0.0 bueromoebelservice.com
+
+# Added April 21, 2023
+0.0.0.0 beautydates.cn
+0.0.0.0 www.beautydates.cn
+0.0.0.0 hhoneyann96.beautydates.cn
+0.0.0.0 nilaima.com
+0.0.0.0 www.nilaima.com
+
+# Added April 27, 2023
+0.0.0.0 www.gameitlive.com
+0.0.0.0 gameitlive.com
+
+# Added April 28, 2023
+0.0.0.0 stripchat.com
+
+# Added April 29, 2023
+0.0.0.0 crmpt.livejasmin.com
+
+# Added May 2, 2023
+0.0.0.0 claudfront.net
+0.0.0.0 allowlisted.net
+0.0.0.0 atlas-upd.com
+0.0.0.0 ads-tm-glb.click
+0.0.0.0 cbox4.ignorelist.com
+0.0.0.0 hsdps.cc
+0.0.0.0 api.sprig.com
+
+# Added May 15, 2023
+0.0.0.0 telemetry-cii.api.playstation.com
+
+# Added May 19, 2023
+0.0.0.0 clorec4.net
+0.0.0.0 wu.idismfonts.com
+0.0.0.0 xml-eu.flairadscpc.com
+
+# Added May 30, 2023
+0.0.0.0 serasearchtop.com
+0.0.0.0 track.atom-ds.com
+
+# Added June 3, 2023
+0.0.0.0 addatamarket.net
+0.0.0.0 backuprabbit.com
+0.0.0.0 businessvideonews.com
+0.0.0.0 cloudsponcer.com
+0.0.0.0 datamarketplace.net
+0.0.0.0 mobilegamerstats.com
+0.0.0.0 snoweeanalytics.com
+0.0.0.0 tagclick-cdn.com
+0.0.0.0 topographyupdates.com
+0.0.0.0 unlimitedteacup.com
+0.0.0.0 virtuallaughing.com
+0.0.0.0 web-trackers.com
+0.0.0.0 growthtransport.com
+0.0.0.0 anstv.net
+0.0.0.0 ans7tv.net
+0.0.0.0 123-vendasvoos25.lovestoblog.com
+0.0.0.0 c-123milhas.shop
+
+# Added June 13, 2023
+0.0.0.0 assistant-chronopost.com
+0.0.0.0 zhihu-web-analytics.zhihu.com
+
+# Added July 4, 2023
+0.0.0.0 stmicroelectronics.d3.sc.omtrdc.net
+
+0.0.0.0 giyhub.com
+0.0.0.0 d2wzkjnj9pfptq.cloudfront.net
+0.0.0.0 storiesnexus.com
+0.0.0.0 rumadel.com
+
+# Added August 8, 2023
+0.0.0.0 ms4.applvn.com
+0.0.0.0 adsninjacdn.b-cdn.net
+0.0.0.0 cdn.adsninja.ca
+0.0.0.0 nom.telemetrydeck.com
+0.0.0.0 api.ibeat-analytics.com
+0.0.0.0 mads.amazon.com
+
+# Add August 9, 2023
+0.0.0.0 s2.bl-1.com
+
+# Added August 10, 2023
+0.0.0.0 w61.1piecemanga.com
+0.0.0.0 fbet.com
+0.0.0.0 stemboastfulrattle.com
+0.0.0.0 onwardrespirationcommandment.com
+
+# Added October 13, 2023
+0.0.0.0 s.dmmew.com
+
+# Added November 2, 2023
+0.0.0.0 run.cntxtfl.com
+0.0.0.0 live-manifests-lln.warnermediacdn.com
+0.0.0.0 live-manifests-aka.warnermediacdn.com
+0.0.0.0 logs.browser-intake-datadoghq.com
+
+# Added November 3, 2023
+0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
+0.0.0.0 cpm.didna.io
+0.0.0.0 hb.minutemedia-prebid.com
+0.0.0.0 ox-rtb-us-east1.openx.net
+0.0.0.0 ox-rtb-us-east4.openx.net
+0.0.0.0 pbs.nextmillmedia.com
+0.0.0.0 report2.hb.brainlyads.com
+0.0.0.0 ssp-sync.criteo.com
+0.0.0.0 st.pubmatic.com
+
+# Added November 9, 2023
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+
+# Added November 21, 2023
+0.0.0.0 pickanewdeliverytime.com
+
+# Added November 24, 2023
+0.0.0.0 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
+0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
+0.0.0.0 a.jsrdn.com
+0.0.0.0 atom.warnermedia.com
+0.0.0.0 d9esmwyn3ffr1.cloudfront.net
+0.0.0.0 dqif5bl25s0bf.cloudfront.net
+0.0.0.0 healthguides.cnn.com
+0.0.0.0 ipv4.cws.conviva.com
+0.0.0.0 licensing.bitmovin.com
+0.0.0.0 live-media-aka.warnermediacdn.com
+0.0.0.0 registry.api.cnn.io
+0.0.0.0 s.cdn.turner.com
+0.0.0.0 turnip.cdn.turner.com
+0.0.0.0 vi.ml314.com
+0.0.0.0 vod-media-aka.warnermediacdn.com
+0.0.0.0 warnermediagroup-com.videoplayerhub.com
+0.0.0.0 www.i.cdn.cnn.com
+0.0.0.0 d32ajg1ye8vnl9.cloudfront.net
+0.0.0.0 dvqcs4w0eo35b.cloudfront.net
+0.0.0.0 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
+0.0.0.0 i.jsrdn.com
+0.0.0.0 lb.eu-1-id5-sync.com
+0.0.0.0 live-media-lln.warnermediacdn.com
+0.0.0.0 zion.api.cnn.io
+
+# Added November 25, 2023
+0.0.0.0 bucket.cdnwebcloud.com
+0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
+0.0.0.0 cadmus.script.ac
+0.0.0.0 cdn.topsrvimp.com
+0.0.0.0 cookies.nextmillmedia.com
+0.0.0.0 didna.b-cdn.net
+0.0.0.0 exchange.kueezrtb.com
+0.0.0.0 neural40.cdnwebcloud.com
+0.0.0.0 rt.marphezis.com
+0.0.0.0 sync.colossusssp.com
+0.0.0.0 sync.kueezrtb.com
+0.0.0.0 t.adx.opera.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
+
+# Added December 17, 2023
+0.0.0.0 co.vaicore.site
+0.0.0.0 int.vaicore.site
+
+# Added December 28, 2023
+0.0.0.0 rtnl.bxcl.de
+
+# Added February 11, 2024
+0.0.0.0 product-cdn.liftoff-creatives.io
+0.0.0.0 preview.liftoff-creatives.io
+0.0.0.0 adexp.liftoff.io
+0.0.0.0 analytics.liftoff.io
+0.0.0.0 applovin-europe-rtb.liftoff.io
+0.0.0.0 appodeal-asia-rtb.liftoff.io
+0.0.0.0 appodeal-europe-rtb.liftoff.io
+0.0.0.0 appodeal-rtb.liftoff.io
+0.0.0.0 bigo-asia-rtb.liftoff.io
+0.0.0.0 bigo-europe-rtb.liftoff.io
+0.0.0.0 bigo-rtb.liftoff.io
+0.0.0.0 build-cdn.liftoff.io
+0.0.0.0 cdn.liftoff.io
+0.0.0.0 click4.liftoff.io
+0.0.0.0 click.liftoff.io
+0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression-east.liftoff.io
+0.0.0.0 impression-europe.liftoff.io
+0.0.0.0 lb-rtb-europe.liftoff.io
+0.0.0.0 privacy.liftoff.io
+0.0.0.0 rtbnotify.liftoff.io
+0.0.0.0 biddingmax.apse.trk.rixserv.com
+0.0.0.0 et-l.w.inmobi.com
+0.0.0.0 i.l-new.inmobicdn.net
+0.0.0.0 cdn.liftoff-creatives.io
+0.0.0.0 statistik.changing-cities.org
+
+# Added March 10, 2024
+0.0.0.0 mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com
+
+# Added March 12, 2024
+0.0.0.0 crpdt.livejasmin.com
+
+# Added March 21, 2024
+0.0.0.0 justtrack-logs.justtrack.io
+0.0.0.0 sdk-api.justtrack.io
+0.0.0.0 prod.adjoe-programmatic.com
+
+# Added March 28, 2024
+0.0.0.0 argo.svcmot.com
+
+# Added April 3, 2024
+0.0.0.0 canadapost.ca-help-h.top
+
+# Added April 8, 2024
+0.0.0.0 notepad.plus
+
+# Added April 13, 2024
+0.0.0.0 alertcibcsecuremobile.com
+
+# Added April 24, 2024
+0.0.0.0 sadostic.pl
+0.0.0.0 www.sadostic.pl
+
+# Added April 28, 2024
+0.0.0.0 ejuiashsateam.info
+0.0.0.0 www.ejuiashsateam.info
+
+# Added May 3, 2024
+0.0.0.0 twitterr.com
+0.0.0.0 ww25.twitterr.com
+
+# Added May 19, 2024
+0.0.0.0 urdxh.com
+
+# Added May 30, 2024
+0.0.0.0 logs.netflix.com
+
+# Added June 26, 2024
+0.0.0.0 mailsupport-24f7f1500ed129bc71f2ad9c06fe1e73.pages.dev
+
+# Added July 7, 2024
+0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 astrategy.beacon.qq.com
+0.0.0.0 tdid.m.qq.com
+0.0.0.0 c.adsco.re
+0.0.0.0 4.adsco.re
+0.0.0.0 6.adsco.re
+0.0.0.0 frwrz661fasv.l4.adsco.re
+0.0.0.0 frwrz661fasv.n4.adsco.re
+0.0.0.0 frwrz661fasv.s4.adsco.re
+
+# Added July 27, 2024
+0.0.0.0 tracker.nitropay.com
+
+# Added August 30, 2024
+0.0.0.0 grid-bidder.criteo
+0.0.0.0 a-ring.msedge.net
+0.0.0.0 k-ring.msedge.net
+0.0.0.0 hb.yellowblue.io
+0.0.0.0 gtrack.kueezrtb.com
+0.0.0.0 hb-api.omnitagjs.com
+
+# Added September 1, 2024
+0.0.0.0 analytics.intelliscapesolutions.com
+
+# Added September 5, 2024
+0.0.0.0 1000fapvids.online
+0.0.0.0 ddbca.localmeets.link
+
+# Added September 6, 2024
+0.0.0.0 browser-intake-datadoghq.com
+
+# Added September 16, 2024
+0.0.0.0 westus-0.in.applicationinsights.azure.com
+0.0.0.0 default.exp-tas.com
+
+# Added September 17, 2024
+0.0.0.0 api.receptivity.io
+0.0.0.0 commentaires.qub.ca
+0.0.0.0 indicedebonheur.com
+
+# Added September 21, 2024
+0.0.0.0 ads-static.phonepe.com
+
+# Added September 25, 2024
+0.0.0.0 gotoyahoo.com
+
+# Added September 27, 2024
+0.0.0.0 two.opensourced.us
+
+# Added October 2, 2024
+0.0.0.0 api.adnz.co
+0.0.0.0 xd.adnz.co
+
+# Added October 9, 2024
+0.0.0.0 canada.postcanadantwb.top
+
+# Added October 10, 2024
+0.0.0.0 flowto.it
+
+# Added October 11, 2024
+0.0.0.0 5197248-trckp05t.com
+
+# Added October 12, 2024
+0.0.0.0 api-visitor-analytics.intercom.com
+
+# Added October 13, 2024
+0.0.0.0 region1.google-analytics.com
+0.0.0.0 starshipstart.com/
